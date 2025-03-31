@@ -1,8 +1,7 @@
 # 🌙 AI-Powered Sleep Pattern Analyzer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-powered-sleep-pattern-analyzer.streamlit.app/)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/sleep-pattern-analyzer)
-![GitHub license](https://img.shields.io/github/license/yourusername/sleep-pattern-analyzer)
+Access the live app here:
+🔗 https://ai-powered-sleep-pattern-analyzer.streamlit.app/
 
 An intelligent web application that analyzes your lifestyle factors to predict sleep quality and provide personalized recommendations for better rest.
 
@@ -31,3 +30,5 @@ graph TD
     E & F & G --> H[ML Model]
     H --> I[Sleep Prediction]
     H --> J[Recommendations]
+
+
